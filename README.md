@@ -1,6 +1,6 @@
 ## Hi I'm Yui Sakura <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Whats Up">
 
-![video]([(https://64.media.tumblr.com/d39e141ad55ea1f0b471588e98e24df2/a6f7371d179c60f1-7d/s400x600/03661c8f4a8fef4ba4508221b37197e3fe22f3d1.gifv)])
+![video]([(https://64.media.tumblr.com/d39e141ad55ea1f0b471588e98e24df2/a6f7371d179c60f1-7d/s400x600/03661c8f4a8fef4ba4508221b37197e3fe22f3d1.gif)])
 ### About Me:
 
 <i>
