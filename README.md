@@ -35,4 +35,4 @@
 
 ## Stats
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=Yoriichi-Tsugikuni&show_icons=true&theme=radical)](https://github.com/yuisakura)
+[![github stats](https://github-readme-stats.vercel.app/api?username=yuisakura&show_icons=true&theme=radical)](https://github.com/yuisakura)
